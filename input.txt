@@ -1,0 +1,17 @@
+cache_capacity: 32
+cache_structure: n-way
+block_size: 4
+word_size: 4
+replacement_method: LRU
+main_memory_capacity: 256
+access_to_main_memory_method: word
+n: 2
+0
+16
+32
+64
+48
+16
+0
+48
+16
